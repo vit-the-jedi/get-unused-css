@@ -1,0 +1,22 @@
+{
+    "name": "get-used-css",
+    "version": "1.0.0",
+    "main": "x.js",
+    "dependencies": {
+        "puppeteer": "^18.0.5"
+    },
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "me",
+    "license": "ISC",
+    "description": "puppeteer script to get unused css from webpage",
+    "repository": {
+        "type": "git",
+        "url": "na"
+    },
+    "keywords": [
+        "none"
+    ]
+}
